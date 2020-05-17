@@ -1,0 +1,2 @@
+# Face-Emotion-Recognition
+The objective is to develop a facial expression recognition algorithm using CNN network based on 7 key emotions - anger, disgust, fear, happiness, sadness, surprise and neutral. While working on the data, we also tried to explore data generation and image captioning techniques like Variational AutoEncoder (VAE) and Recurrent Neural Networks (RNN). Using VAE, we tried to generate additional low resolution images from the training data.
